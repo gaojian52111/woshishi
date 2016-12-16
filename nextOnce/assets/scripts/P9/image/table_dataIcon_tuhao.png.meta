@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8e328799-1fcf-43b7-aad8-f93c523c56b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "table_dataIcon_tuhao": {
+      "ver": "1.0.3",
+      "uuid": "c6c591ac-311d-409c-8b95-5d8c8ed838ed",
+      "rawTextureUuid": "8e328799-1fcf-43b7-aad8-f93c523c56b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 120,
+      "height": 54,
+      "rawWidth": 120,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

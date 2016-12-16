@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "17b68ab2-08d7-488a-a36b-20384ef233ab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "table_dataIcon_ruchi": {
+      "ver": "1.0.3",
+      "uuid": "817244b4-c6dd-40c2-bc73-7196f2ea84d4",
+      "rawTextureUuid": "17b68ab2-08d7-488a-a36b-20384ef233ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 24,
+      "height": 24,
+      "rawWidth": 24,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
